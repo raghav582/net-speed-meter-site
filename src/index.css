@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-custom-1 {
+  background-color: #0b0c1b;
+}
+
+.bg-custom-2 {
+  background-color: #0e1027;
+}
