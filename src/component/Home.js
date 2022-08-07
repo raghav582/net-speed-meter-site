@@ -11,13 +11,13 @@ function Home() {
                     </div>
                     <div className='w-1/4'>
                         <a href="">
-                            <img className='rounded-xl' src='/assets/playstore_icon.png'></img>
+                            <img className='rounded-xl' src='./assets/playstore_icon.png'></img>
                         </a>
                     </div>
                 </div>
                 <div className="flex w-1/2 justify-center rounded-xl">
-                    <img className='w-1/4 m-2 rounded-xl skew-y-3 -skew-x-3' src='/assets/screenshot_2.jpg'></img>
-                    <img className='w-1/4 h-5/6 m-2 mt-auto rounded-xl -skew-y-3 skew-x-3' src='/assets/screenshot_1.jpg'></img>
+                    <img className='w-1/4 m-2 rounded-xl skew-y-3 -skew-x-3' src='./assets/screenshot_2.jpg'></img>
+                    <img className='w-1/4 h-5/6 m-2 mt-auto rounded-xl -skew-y-3 skew-x-3' src='./assets/screenshot_1.jpg'></img>
                 </div>
             </div>
         </div>
