@@ -7,7 +7,7 @@ function Layout() {
             <nav id="navbar" className="bg-custom-1 p-5 mt-0 relative w-full z-50 top-0 shadow-md">
                 <div className='container mx-auto flex flex-wrap items-center'>
                     <div className="flex justify-start w-1/3 items-center md:gap-x-12">
-                        <img src='/assets/icon2crop.png' className="w-10"></img>
+                        <img src='./assets/icon2crop.png' className="w-10"></img>
                     </div>
                     <div className="flex justify-center w-1/3">
                         <div className='text-2xl text-white font-bold'>Net Speed Meter</div> 
