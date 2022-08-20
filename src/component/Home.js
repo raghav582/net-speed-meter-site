@@ -1,3 +1,5 @@
+const playstoreLink = "https://play.google.com/store/apps/details?id=io.net.speed.meter";
+
 function Home() {
     return (
         <div className="pt-20 px-10 pb-5">
@@ -10,7 +12,7 @@ function Home() {
                         Better use Net Speed Meter.
                     </div>
                     <div className='w-1/4'>
-                        <a href="">
+                        <a href={playstoreLink}>
                             <img className='rounded-xl' src='./assets/playstore_icon.png'></img>
                         </a>
                     </div>
